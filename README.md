@@ -1,10 +1,14 @@
-# springbootmongodb
+# SpringBoot and MongoDB sample REST API
 Spring Boot + Mongo Db Sample
 
-# config pom
+# Configuration
+  Setup maven dependencies
+  Download dependencies
+  Run
 
-# install mongodb on brew
-  start mongodbs
+# Install MongoDB
+  brew install mongodb
+  mongod --config /usr/local/etc/mongod.conf
 
 # Link
-   http://javabeat.net/restful-springboot-mongodb/
+  http://javabeat.net/restful-springboot-mongodb/
